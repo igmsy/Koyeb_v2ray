@@ -25,4 +25,4 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: true
-          tags: igmsy/Koyeb_v2ray
+          tags: igmsy/koyeb_v2ray
